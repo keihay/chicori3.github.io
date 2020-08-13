@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 remote_theme: mmistakes/minimal-mistakes
 
 # Site Settings
 locale: "en-US"
-title: "chicori3"
+title: "chic_ori's Blog"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
-name: "chicori3"
+name: "chic_ori's Blog"
 description: "An amazing website."
 url: https://chicori3.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
